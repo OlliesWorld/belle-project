@@ -3,9 +3,8 @@ backend:
   # change repo to your git repository url
   repo: OlliesWorld/belle-project
 
-media_folder: static/images/uploads
-public_folder: _data/blog
-site_url: https://belle-project.netlify.app
+media_folder: static/assets
+public_folder: /assets
 
 collections:
   - name: settings
