@@ -9,6 +9,4 @@ I wrote a letter to Santa. I sent it at the flower shop. It went to the North Po
 
 ![](/assets/mylettertosanta.png)
 
-![](/assets/mylettertosanta.png)
-
 ![](/assets/img_7550.jpeg)
